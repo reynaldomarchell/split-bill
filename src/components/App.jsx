@@ -7,20 +7,20 @@ import { useState } from "react";
 const initialFriends = [
   {
     id: 118836,
-    name: "Clark",
-    image: "https://i.pravatar.cc/48?u=118836",
+    name: "Yuki",
+    image: "https://i.pravatar.cc/48?u=11282629876",
     balance: 9000,
   },
   {
     id: 933372,
-    name: "Sarah",
-    image: "https://i.pravatar.cc/48?u=933372",
+    name: "Keichi",
+    image: "https://i.pravatar.cc/48?u=93337220572",
     balance: -13000,
   },
   {
     id: 499476,
-    name: "Anthony",
-    image: "https://i.pravatar.cc/48?u=499476",
+    name: "Miyako",
+    image: "https://i.pravatar.cc/48?u=12040466196",
     balance: 0,
   },
 ];
