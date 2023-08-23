@@ -1,6 +1,6 @@
 import Friend from "./Friend";
 
-function FriendList({ friends, onSelection, selectedFriend }) {
+function FriendsList({ friends, onSelection, selectedFriend }) {
   return (
     <ul>
       {friends.map((friend) => (
@@ -15,4 +15,4 @@ function FriendList({ friends, onSelection, selectedFriend }) {
   );
 }
 
-export default FriendList;
+export default FriendsList;

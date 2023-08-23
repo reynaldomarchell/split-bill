@@ -1,8 +1,8 @@
 :root {
-  --color-lightest: #fff4e6;
-  --color-light: #ffe8cc;
-  --color-medium: #ffa94d;
-  --color-dark: #ff922b;
+  --color-lightest: #e6fff0;
+  --color-light: #ccffcd;
+  --color-medium: #d0ff4d;
+  --color-dark: #fff42b;
 }
 
 * {
@@ -31,6 +31,9 @@ body {
   grid-template-columns: 34rem 44rem;
   column-gap: 4rem;
   align-items: start;
+  background-color: #c9f1ed;
+  border-radius: 30px;
+  padding: 20px;
 }
 
 .button {
